@@ -113,7 +113,7 @@ DevCloud以项目维度为默认首页。菜单栏涵盖工作台、管理看板
 
 ### DevCloud
 
-![image-20191207182214761](/Users/leoliao/Library/Application Support/typora-user-images/image-20191207182214761.png)
+![image-20191207182214761](https://tva1.sinaimg.cn/large/006tNbRwgy1g9pla6gavyj30d006sq7m.jpg)
 
 文档入口设置在banner页，包含以下几大模块：
 
@@ -187,7 +187,7 @@ Coding DevOps的文档入口相对DevCloud和阿里云效多了一个步骤，�
 
 ## 8. 总结
 
-本文从产品概要、市场、定位、信息架构、产品体验、文档和社区建设和服务七个维度对三大DevOps云产品进行分析。三个产品的定位都大同小异，模式都是云+DevOps，旨在为用户提升研发效能，目前华为云占据最大的市场份额，阿里云效和腾讯云分别次之。信息架构和产品体验层面，华为DevCloud和Coding DevOps都易上手，阿里云效需要一定的时间去熟悉名词定义、交互及页面逻辑。DevCloud和Coding DevOps文档都很丰富，阿里云效就相对差强人意，社区建设三个产品都不理解，但阿里云效借助钉钉即时通讯工具，为用户提供即时的答疑服务，DevCloud和Coding DevOps在服务层面反馈就相对较慢。
+本文从产品概要、市场、定位、信息架构、产品体验、文档和社区建设和服务七个维度对三大DevOps云产品进行分析。三个产品的定位都大同小异，模式都是云+DevOps，旨在为用户提升研发效能，目前华为云占据最大的市场份额，阿里云效和腾讯云分别次之。信息架构和产品体验层面，华为DevCloud和Coding DevOps都易上手，阿里云效需要一定的时间去熟悉名词定义、交互及页面逻辑。DevCloud和Coding DevOps文档都很丰富，阿里云效就相对差强人意，社区建设三个产品都不理想，但阿里云效借助钉钉即时通讯工具，为用户提供即时的答疑服务，DevCloud和Coding DevOps在服务层面反馈就相对较慢。
 
 ## 9. 参考
 
