@@ -103,7 +103,7 @@ DevCloud以项目维度为默认首页。菜单栏涵盖工作台、管理看板
 
 ![image-20191208152057158](https://tva1.sinaimg.cn/large/006tNbRwgy1g9pcbi205hj30mm03maaa.jpg)
 
-由于Coding只研发项目管理，所以产品结构树最清晰，从首页开始创建项目后，直接进入研发项目管理流程。
+由于Coding专注于研发项目管理，所以产品结构树最清晰，从首页开始创建项目后，直接进入研发项目管理流程。
 
 ![image-20191208125227713](https://tva1.sinaimg.cn/large/006tNbRwgy1g9p80zvernj31vg0ieac7.jpg)
 
