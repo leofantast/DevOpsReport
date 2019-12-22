@@ -8,15 +8,23 @@
 
 ![image-20191207164317391](https://tva1.sinaimg.cn/large/006tNbRwgy1g9o92wnadcj30wl09pask.jpg)
 
+![img](https://support.huaweicloud.com/reference-devcloud/zh-cn_image_0190037807.png)
+
 ### 阿里云效
+
 <a href="https://rdc.aliyun.com">云效</a>，一站式企业协同研发云，源于阿里巴巴多年先进的管理理念和工程实践，提供从“需求->开发->测试->发布->运维->运营”端到端的协同服务和研发工具支撑。云效将战略规划、敏捷研发、持续集成、持续交付、DevOps等理念引入银行、保险、民航等大型企业和互联网初创企业，支持公有云、专有云和混合云的协同研发，助力企业产品快速创新迭代和研发效能升级。
 
 ![image-20191207165403870](https://tva1.sinaimg.cn/large/006tNbRwgy1g9o9e3feiwj31020g3k2t.jpg)
 
+![image-20191218182918106](https://tva1.sinaimg.cn/large/006tNbRwgy1ga11ylg6jhj30rm0ep7e4.jpg)
+
 ### 腾讯云Coding DevOps
+
 <a href="https://cloud.tencent.com/product/coding">CODING DevOps</a> 包括代码托管、项目管理、测试管理、持续集成、制品库等多款产品和服务，涵盖软件开发从构想到交付的一切所需，使研发团队在云端高效协同，实践敏捷开发与 DevOps，提升软件交付质量与速度。 
 
 ![image-20191207165622226](https://tva1.sinaimg.cn/large/006tNbRwgy1g9o9gh8y1mj312s0d7djo.jpg)
+
+![image-20191219111556427](https://tva1.sinaimg.cn/large/006tNbRwgy1ga1v1zibvjj31110nfwt0.jpg)
 
 Coding DevOps比较特殊，是由腾讯云对Coding完成全资收购后，Coding入驻腾讯云平台。具体为2019年8月Coding进驻腾讯云官网「开发者工具」系列，给腾讯云用户提供 DevOps 研发管理协作工具。
 
